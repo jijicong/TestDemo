@@ -6,4 +6,6 @@ package top.chenyanning.testdemo.server;
 public class TestServer {
 
     private String name;
+
+    private String email;
 }
