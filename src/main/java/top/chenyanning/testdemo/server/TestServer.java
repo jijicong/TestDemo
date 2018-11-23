@@ -7,8 +7,8 @@ public class TestServer {
 
     private String name;
 
-    private String email;
+    private String email2;
 
-    private String key;
+    private String key1;
 
 }
