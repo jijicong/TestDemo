@@ -8,4 +8,17 @@ public class TestServer {
     private String name;
 
     private String email;
+
+    private String key;
+
+
+
+
+
+
+
+
+
+    
+
 }
